@@ -1,7 +1,7 @@
 # DSTutorial_Fault-tolerance
 Tutorial über "Fault tolerance" für das DBE Modul "Distributed Systems"
 
-In dieser Repository sind folgende Unterlagen zum Thema "Fault tolerance" vorhanden:
+In diesem Repository sind folgende Unterlagen zum Thema "Fault tolerance" vorhanden:
 
 [1. Video Tutorial](https://youtu.be/FKF7G_vu-LQ)
 
